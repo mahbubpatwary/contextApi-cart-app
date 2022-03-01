@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/contextApi-cart-app/static/css/main.0662de00.chunk.css",
+    "main.js": "/contextApi-cart-app/static/js/main.95b181d2.chunk.js",
+    "main.js.map": "/contextApi-cart-app/static/js/main.95b181d2.chunk.js.map",
+    "runtime-main.js": "/contextApi-cart-app/static/js/runtime-main.140ba443.js",
+    "runtime-main.js.map": "/contextApi-cart-app/static/js/runtime-main.140ba443.js.map",
+    "static/css/2.4be38407.chunk.css": "/contextApi-cart-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.0d3e95c1.chunk.js": "/contextApi-cart-app/static/js/2.0d3e95c1.chunk.js",
+    "static/js/2.0d3e95c1.chunk.js.map": "/contextApi-cart-app/static/js/2.0d3e95c1.chunk.js.map",
+    "static/js/3.b7446aeb.chunk.js": "/contextApi-cart-app/static/js/3.b7446aeb.chunk.js",
+    "static/js/3.b7446aeb.chunk.js.map": "/contextApi-cart-app/static/js/3.b7446aeb.chunk.js.map",
+    "index.html": "/contextApi-cart-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/contextApi-cart-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.0662de00.chunk.css.map": "/contextApi-cart-app/static/css/main.0662de00.chunk.css.map",
+    "static/js/2.0d3e95c1.chunk.js.LICENSE.txt": "/contextApi-cart-app/static/js/2.0d3e95c1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/contextApi-cart-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140ba443.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.0d3e95c1.chunk.js",
+    "static/css/main.0662de00.chunk.css",
+    "static/js/main.95b181d2.chunk.js"
+  ]
+}
